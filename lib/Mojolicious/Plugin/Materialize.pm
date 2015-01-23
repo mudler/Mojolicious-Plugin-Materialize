@@ -6,7 +6,7 @@ use Mojo::Base 'Mojolicious::Plugin';
 use Mojolicious::Plugin::AssetPack;
 use File::Spec::Functions 'catdir';
 use Cwd ();
-our $VERSION = "0.95";
+our $VERSION = "0.9501";
 
 my @DEFAULT_CSS_FILES = qw( materialize.css );
 my @DEFAULT_JS_FILES  = qw( materialize.js);

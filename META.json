@@ -28,8 +28,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : "6.64",
-            "Module::Build::Tiny" : "0.035"
+            "ExtUtils::MakeMaker" : "6.64"
          }
       },
       "develop" : {
@@ -50,6 +49,8 @@
       },
       "test" : {
          "requires" : {
+            "Mojolicious" : "0",
+            "Test::Mojo" : "0",
             "Test::More" : "0.98"
          }
       }
@@ -66,6 +67,6 @@
          "web" : "https://github.com/mudler/Mojolicious-Plugin-Materialize"
       }
    },
-   "version" : "0.95",
+   "version" : "0.9501",
    "x_authority" : "cpan:MUDLER"
 }
