@@ -55,6 +55,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/mudler/Mojolicious-Plugin-Materialize/issues"
+      },
+      "homepage" : "https://github.com/mudler/Mojolicious-Plugin-Materialize",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/mudler/Mojolicious-Plugin-Materialize.git",
+         "web" : "https://github.com/mudler/Mojolicious-Plugin-Materialize"
+      }
+   },
    "version" : "0.95",
    "x_authority" : "cpan:MUDLER"
 }
