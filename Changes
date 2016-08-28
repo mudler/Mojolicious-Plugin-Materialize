@@ -2,6 +2,9 @@ Revision history for Perl extension Mojolicious-Plugin-Materialize
 
 {{$NEXT}}
 
+0.9770 2016-08-28T11:50:24Z
+    - update Materialize component and added missing dep in cpanfile
+
 0.9501 2015-01-23T12:07:15Z
 
     - fixes
